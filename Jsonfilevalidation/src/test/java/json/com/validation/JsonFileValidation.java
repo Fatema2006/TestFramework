@@ -70,7 +70,7 @@ public class JsonFileValidation {
 	}
 	
 	public static void testGitMethod () {
-		System.out.println("Tpday created github repo");
+		System.out.println("Today created github repo");
 	}
 
 }
