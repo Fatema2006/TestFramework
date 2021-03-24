@@ -68,5 +68,9 @@ public class JsonFileValidation {
 			System.out.println(key+" : "+keyValue);
 		}
 	}
+	
+	public static void testGitMethod () {
+		System.out.println("Tpday created github repo");
+	}
 
 }
